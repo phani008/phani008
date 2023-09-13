@@ -1,0 +1,50 @@
+body{
+  margin:0;
+  text-align:center;
+  font-family:font-family: 'Courier New', monospace;
+  font-size: 20px;
+}
+h1{
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin-top: :0;
+  font-family: 'sacramento',cursive;
+}
+h2{
+  font-weight: bolder;
+  color: #66BFBF;
+  font-family: 'Courier New', monospace;
+  font-size: 1.5rem;
+}
+h3{
+  color: #11999E;
+  font-family: inherit;
+}
+
+}
+.top-container{
+  background-color:#85E6C5;
+  position: relative;
+  padding-top:100px;
+}
+.skill-row{
+  width: 50%;
+}
+
+.pro{
+  text-decoration: underline;
+
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.biriyani-img{
+  width: 25%;
+}
